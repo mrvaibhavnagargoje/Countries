@@ -2,17 +2,15 @@
   "name": "12_countries_project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-  "start": "parcel index.html",
-  "build": "parcel build index.html --public-url ./"
-},
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url ./"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.8.3",
-    "process": "^0.11.10"
+    "parcel": "^2.13.3"
   },
   "dependencies": {
     "react": "^18.2.0",
